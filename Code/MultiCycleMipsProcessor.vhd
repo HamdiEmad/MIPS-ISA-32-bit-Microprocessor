@@ -341,12 +341,3 @@ begin
 		Y => MuxToPc
 	);
 end Architecture;
-
-
-
-
-
-
-
-
-
